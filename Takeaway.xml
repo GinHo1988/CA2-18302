@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <section name="Appertizers">
+    <entree gluten="true">
+      <item>Spring Roll</item>
+      <price>3.50</price>
+      <allergen>Gluten,Soyabeans,Crustaceans</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>BBQ Ribs</item>
+      <price>6.75</price>
+      <allergen>Gluten,Soyabeans</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>BBQ Chicken Wings</item>
+      <price>5.50</price>
+      <allergen>Gluten,Soyabeans</allergen>
+    </entree>
+  </section>
+  <section name="Soups">
+    <entree>
+      <item>Vegetable Soups</item>
+      <price>3.50</price>
+      <allergen>Sesame Seed,Soyabeans</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>Chicken &amp; Sweentcorn Soups</item>
+      <price>4.20</price>
+      <allergen>Gluten,Eggs</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>Hot &amp; Sour Soups</item>
+      <price>4.20</price>
+      <allergen>Gluten,Eggs,Sesame Seed</allergen>
+    </entree>
+  </section>
+  <section name="Main Courses">
+    <entree gluten="true">
+      <item>Sweet &amp; Sour Chicken</item>
+      <price>8.55</price>
+      <allergen>Gluten,Soyabeans</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>Black Pepper Beef</item>
+      <price>9.55</price>
+      <allergen>Gluten,Sesame Seed,Soyabeans</allergen>
+    </entree>
+    <entree>
+      <item>Tofu Black Beans</item>
+      <price>7.85</price>
+      <allergen>Sesame Seed,Soyabeans</allergen>
+    </entree>
+  </section>
+  <section name="Sides">
+    <entree>
+      <item>Boil Rice</item>
+      <price>2.25</price>
+      <allergen/>
+    </entree>
+    <entree>
+      <item>Chips</item>
+      <price>2.55</price>
+      <allergen/>
+    </entree>
+    <entree>
+      <item>Eggs Fried Rice</item>
+      <price>3.25</price>
+      <allergen>Eggs,Soyabeans</allergen>
+    </entree>
+    <entree gluten="true">
+      <item>Fried Noodle</item>
+      <price>3.85</price>
+      <allergen>Gluten,Eggs,Soyabeans</allergen>
+    </entree>
+  </section>
+</menu>
